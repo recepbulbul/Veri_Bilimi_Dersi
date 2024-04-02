@@ -1,1 +1,1 @@
-Veri Bilimi Dersi
+#Veri Bilimi Dersi
